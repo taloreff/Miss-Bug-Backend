@@ -1,0 +1,73 @@
+[
+    {
+      "_id": "u101",
+      "fullname": "Muki Ja",
+      "username": "muki",
+      "password": "muki1234",
+      "score": 100
+    },
+    {
+      "_id": "u102",
+      "fullname": "John Doe",
+      "username": "john",
+      "password": "john5678",
+      "score": 90
+    },
+    {
+      "_id": "u103",
+      "fullname": "Alice Smith",
+      "username": "alice",
+      "password": "alice7890",
+      "score": 80
+    },
+    {
+      "_id": "u104",
+      "fullname": "Emma Brown",
+      "username": "emma",
+      "password": "emma4321",
+      "score": 85
+    },
+    {
+      "_id": "u105",
+      "fullname": "Tom Williams",
+      "username": "tom",
+      "password": "tom2468",
+      "score": 95
+    },
+    {
+      "_id": "u106",
+      "fullname": "Sophia Johnson",
+      "username": "sophia",
+      "password": "sophia1357",
+      "score": 75
+    },
+    {
+      "_id": "u107",
+      "fullname": "Oliver Miller",
+      "username": "oliver",
+      "password": "oliver9999",
+      "score": 88
+    },
+    {
+      "_id": "u108",
+      "fullname": "Ella Wilson",
+      "username": "ella",
+      "password": "ella0000",
+      "score": 82
+    },
+    {
+      "_id": "u109",
+      "fullname": "James Taylor",
+      "username": "james",
+      "password": "james1111",
+      "score": 91
+    },
+    {
+      "_id": "u110",
+      "fullname": "Charlotte Brown",
+      "username": "charlotte",
+      "password": "charlotte2222",
+      "score": 87
+    }
+  ]
+  

@@ -1,0 +1,81 @@
+[
+    {
+        "_id": "u101",
+        "fullname": "blabla",
+        "username": "muki",
+        "score": 123,
+        "password": "muki1234"
+    },
+    {
+        "_id": "u103",
+        "fullname": "Alice Smith",
+        "username": "alice",
+        "password": "alice7890",
+        "score": 80
+    },
+    {
+        "_id": "u106",
+        "fullname": "Sophia Johnson",
+        "username": "sophia",
+        "score": 5,
+        "password": "sophia1357"
+    },
+    {
+        "_id": "u107",
+        "fullname": "Oliver Miller",
+        "username": "oliver",
+        "password": "oliver9999",
+        "score": 88
+    },
+    {
+        "_id": "u108",
+        "fullname": "Ella Wilson",
+        "username": "ella",
+        "password": "ella0000",
+        "score": 82
+    },
+    {
+        "_id": "u109",
+        "fullname": "James Taylor",
+        "username": "james",
+        "password": "james1111",
+        "score": 91
+    },
+    {
+        "_id": "u110",
+        "fullname": "Charlotte Brown",
+        "username": "charlotte",
+        "password": "charlotte2222",
+        "score": 87
+    },
+    {
+        "fullname": "Johnny",
+        "score": 99,
+        "_id": "VPj8qE"
+    },
+    {
+        "fullname": "Blabla",
+        "score": 12,
+        "_id": "CIRyGR"
+    },
+    {
+        "fullname": "another one",
+        "score": 55,
+        "_id": "XTluuV"
+    },
+    {
+        "fullname": "Johnny",
+        "score": 55,
+        "_id": "7ZkUzM"
+    },
+    {
+        "fullname": "blablabal",
+        "score": 12,
+        "_id": "WcbQTZ"
+    },
+    {
+        "fullname": "new user",
+        "score": 111,
+        "_id": "xfUfrl"
+    }
+]

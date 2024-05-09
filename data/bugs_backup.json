@@ -1,0 +1,166 @@
+[
+    {
+        "_id": "c104",
+        "title": "Saving car saves the previous car",
+        "description": "Saving a car is saving the previous car, and not the actual car clicked on",
+        "severity": 2,
+        "createdAt": 1542107359254,
+        "labels": [
+            "Bug",
+            "High Priority"
+        ]
+    },
+    {
+        "_id": "c105",
+        "title": "Edit button is not functional",
+        "description": "Edit button does not work, a click does not trigger any effect",
+        "severity": 2,
+        "createdAt": 1542107359950,
+        "labels": [
+            "critical",
+            "High Priority"
+        ]
+    },
+    {
+        "_id": "c106",
+        "title": "Design is not as in figma",
+        "severity": "2",
+        "description": "Bug preview design is not accurate to Figma file original design",
+        "labels": [
+            "need-CR",
+            "dev-branch"
+        ]
+    },
+    {
+        "_id": "c107",
+        "title": "Login button not responsive",
+        "description": "Clicking on the login button does not lead to any action",
+        "severity": 1,
+        "createdAt": 1542107360550,
+        "labels": [
+            "Bug",
+            "Medium Priority"
+        ]
+    },
+    {
+        "_id": "c108",
+        "title": "404 Error on Dashboard",
+        "description": "Navigating to the dashboard results in a 404 error page",
+        "severity": 3,
+        "createdAt": 1542107361150,
+        "labels": [
+            "critical",
+            "High Priority"
+        ]
+    },
+    {
+        "_id": "c109",
+        "title": "Missing images in the gallery",
+        "description": "Several images are missing in the gallery section",
+        "severity": 2,
+        "createdAt": 1542107361750,
+        "labels": [
+            "need-CR",
+            "dev-branch"
+        ]
+    },
+    {
+        "_id": "c110",
+        "title": "Broken link in the footer",
+        "description": "The link to the terms of service is broken in the footer",
+        "severity": 2,
+        "createdAt": 1542107362350,
+        "labels": [
+            "Bug",
+            "Low Priority"
+        ]
+    },
+    {
+        "_id": "c111",
+        "title": "Incorrect data displayed in user profile",
+        "description": "User profile page shows incorrect user information",
+        "severity": 2,
+        "createdAt": 1542107362950,
+        "labels": [
+            "Bug",
+            "High Priority"
+        ]
+    },
+    {
+        "_id": "c112",
+        "title": "Search functionality not returning results",
+        "description": "Search feature on the website does not display any search results",
+        "severity": 3,
+        "createdAt": 1542107363550,
+        "labels": [
+            "critical",
+            "High Priority"
+        ]
+    },
+    {
+        "_id": "c113",
+        "title": "Missing validation on user registration",
+        "description": "User registration form does not validate required fields",
+        "severity": 1,
+        "createdAt": 1542107364150,
+        "labels": [
+            "need-CR",
+            "dev-branch"
+        ]
+    },
+    {
+        "_id": "c114",
+        "title": "Broken navigation menu",
+        "description": "Navigation menu links are not functional and do not navigate to respective pages",
+        "severity": 2,
+        "createdAt": 1542107364750,
+        "labels": [
+            "Bug",
+            "Medium Priority"
+        ]
+    },
+    {
+        "_id": "c115",
+        "title": "Payment processing fails for new users",
+        "description": "Newly registered users encounter errors when trying to make payments",
+        "severity": 3,
+        "createdAt": 1542107365350,
+        "labels": [
+            "critical",
+            "High Priority"
+        ]
+    },
+    {
+        "_id": "c116",
+        "title": "Email notifications not being sent",
+        "description": "System fails to send email notifications for important events",
+        "severity": 2,
+        "createdAt": 1542107365950,
+        "labels": [
+            "Bug",
+            "Medium Priority"
+        ]
+    },
+    {
+        "_id": "c117",
+        "title": "UI elements overlapping on mobile devices",
+        "description": "Certain UI elements overlap each other when viewed on mobile devices",
+        "severity": 1,
+        "createdAt": 1542107366550,
+        "labels": [
+            "need-CR",
+            "dev-branch"
+        ]
+    },
+    {
+        "_id": "c118",
+        "title": "Performance degradation during peak hours",
+        "description": "Website experiences slow performance during peak usage times",
+        "severity": 2,
+        "createdAt": 1542107367150,
+        "labels": [
+            "Bug",
+            "Low Priority"
+        ]
+    }
+]
